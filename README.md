@@ -4,7 +4,7 @@ A Resume Building application which can generate dynamic pdf’s,  created to fa
 
 Run npm install to install dependencies for the project both in client and server folder
 ```
-Npm install
+npm install
 ```
 
 Run ```npm start``` to run the development server.
